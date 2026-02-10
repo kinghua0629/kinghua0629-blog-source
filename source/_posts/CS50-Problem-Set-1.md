@@ -22,7 +22,7 @@ int main(void)
 }
 ```
 
-## Problem 2: # [Mario](https://cs50.harvard.edu/x/psets/1/mario/more/#mario)
+## Problem 2: [Mario](https://cs50.harvard.edu/x/psets/1/mario/more/#mario)
 ```c
 #include <cs50.h>
 #include <stdio.h>

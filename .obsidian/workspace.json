@@ -11,10 +11,14 @@
             "id": "1178a4be68fd9cf1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/CS50-Problem-Set-1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "CS50-Problem-Set-1"
             }
           }
         ]
@@ -206,17 +210,34 @@
   },
   "active": "1178a4be68fd9cf1",
   "lastOpenFiles": [
-    "source/_posts/CS50-Problem-Set-1.md",
     "db.json",
+    "public/webfonts/fa-duotone-900.ttf",
+    "public/images/about-me-1.webp",
+    "public/webfonts/fa-thin-100.ttf",
+    "public/webfonts/fa-regular-400.ttf",
+    "public/webfonts/fa-light-300.ttf",
+    "public/webfonts/fa-solid-900.ttf",
+    "public/images/home-banner-picture-dark.webp",
+    "public/webfonts/fa-sharp-solid-900.ttf",
+    "public/webfonts/fa-thin-100.woff2",
+    "public/images/home-banner-picture-light.webp",
+    "public/webfonts/fa-regular-400.woff2",
+    "public/webfonts/fa-duotone-900.woff2",
+    "public/webfonts/fa-light-300.woff2",
+    "public/images/about-me-2.webp",
+    "public/images/redefine-logo.webp",
+    "public/images/wallhaven-wqery6-dark.webp",
+    "public/images/wallhaven-wqery6-light.webp",
+    "public/images/redefine-og.webp",
+    "public/images/favicon.webp",
+    "public/images/loading.svg",
+    "source/_posts/CS50-Problem-Set-1.md",
     "source/_posts/第一篇文章.md",
     "source/_posts/My-First-GRE-Passage.md",
     "source/_posts/First-Passage-Of-My-Blog.md",
-    "First-Passage-Of-My-Blog.pdf",
     "source/_posts/hello-world.md",
-    "未命名.base",
     "Excalidraw/Drawing 2026-02-02 21.25.46.excalidraw.md",
     "Excalidraw/Drawing 2026-02-02 20.44.30.excalidraw.md",
-    "Excalidraw",
     "未命名.md"
   ]
 }
