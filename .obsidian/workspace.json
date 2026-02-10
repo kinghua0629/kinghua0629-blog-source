@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "2b4c38f94d823d17",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4dc3d58ef0f6312",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1178a4be68fd9cf1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae84d11e5b16ae5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b88aa8c85b5ae2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf743c0aea45db83",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "4812228ce632cfaa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "027e48ef605c871d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc28d5521b534d2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa31df63dd7a74b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00870d587a81dc38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/_posts/First-Passage-Of-My-Blog.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "First-Passage-Of-My-Blog 的反向链接列表"
+            }
+          },
+          {
+            "id": "4ce2063e7cd19890",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/_posts/My-First-GRE-Passage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "My-First-GRE-Passage 的出链列表"
+            }
+          },
+          {
+            "id": "c0e58adf8bf2a628",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "63d2e88117a5667a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "81fc0f2e458a8dab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/My-First-GRE-Passage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "My-First-GRE-Passage 的大纲"
+            }
+          },
+          {
+            "id": "2fa7b1d650d83315",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "df3c68e4e775a444",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "1178a4be68fd9cf1",
+  "lastOpenFiles": [
+    "source/_posts/CS50-Problem-Set-1.md",
+    "db.json",
+    "source/_posts/第一篇文章.md",
+    "source/_posts/My-First-GRE-Passage.md",
+    "source/_posts/First-Passage-Of-My-Blog.md",
+    "First-Passage-Of-My-Blog.pdf",
+    "source/_posts/hello-world.md",
+    "未命名.base",
+    "Excalidraw/Drawing 2026-02-02 21.25.46.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-02 20.44.30.excalidraw.md",
+    "Excalidraw",
+    "未命名.md"
+  ]
+}
