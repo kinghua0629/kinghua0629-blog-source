@@ -1,0 +1,31 @@
+- category: Chatbot
+  icon: fa-regular fa-robot # 工具分类的图标
+  items:
+    - name: ChatGPT
+      link: https://chat.openai.com # 书签链接地址
+      description: OpenAI's AI Chatbot
+      image: /images/bookmark-icons/openai.svg # 网站图标地址
+    - name: Claude
+      link: https://www.anthropic.com/
+      description: Anthropic's AI Chatbot
+      image: /images/bookmark-icons/claude-color.svg
+    - name: Gemini
+      link: https://gemini.google.com/
+      description: Google's AI Chatbot
+      image: /images/bookmark-icons/gemini-color.svg
+    - name: Grok
+      link: https://grok.ai/
+      description: Grok's AI Chatbot
+      image: /images/bookmark-icons/grok.svg
+    - name: DeepSeek
+      link: https://chat.deepseek.com/
+      description: DeepSeek's AI Chatbot
+      image: /images/bookmark-icons/deepseek-color.svg
+
+- category: Search Engine
+  icon: fa-regular fa-globe
+  items:
+    - name: Google
+      link: https://www.google.com # 书签链接地址
+      description: Google's Search Engine
+      image: /images/bookmark-icons/google-color.svg # 网站图标地址
