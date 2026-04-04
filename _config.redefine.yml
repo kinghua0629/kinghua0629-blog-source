@@ -176,7 +176,7 @@ home_banner:
     style: center # default, reverse, center
     # Social links
     links:
-      - icon: /images/rocket-launch.svg
+      - icon: fa-regular fa-rocket-launch
         url: https://landing.kinghua0629.com
       - icon: github
         url: https://github.com/kinghua0629 # your GitHub URL
@@ -188,6 +188,10 @@ home_banner:
         url: https://www.zhihu.com/people/king-19-3-3 # your ZhiHu URL
       - icon: twitter
         url: https://x.com/TimHua349889
+      - icon: bilibili
+        url: https://space.bilibili.com/2063327230 # your Bilibili URL
+      - icon: youtube
+        url: https://www.youtube.com/@KingHua0629
       - icon: email
         url: kinghua0629@outlook.com
       # ...... # you can add more
