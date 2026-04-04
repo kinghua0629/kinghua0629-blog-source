@@ -107,7 +107,7 @@ theme: redefine
 deploy:
   type: 'git'
   repo: 'git@github.com:kinghua0629/kinghua0629.github.io.git'
-  branch: 'main'
+  branch: 'dev'
 
 all_minifier: true
 
