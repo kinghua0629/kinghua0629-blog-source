@@ -131,8 +131,8 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image: 
-    light: https://cdn.jsdelivr.net/gh/kinghua0629/kinghua0629-blog-img/20260322123203741.webp # light mode
-    dark: https://cdn.jsdelivr.net/gh/kinghua0629/kinghua0629-blog-img/20260322123210872.webp # dark mode
+    light: /images/home-banner-picture-light.webp # light mode
+    dark: /images/home-banner-picture-dark.webp # dark mode
   # Home banner title
   title: Welcome to King's Blog!
   # Home banner subtitle
@@ -240,9 +240,11 @@ navbar:
       icon: fa-regular fa-user
       submenus:
         About Me: /About-Me
+        CV: /CV/
         Landing: https://landing.kinghua0629.com
         Github: https://github.com/kinghua0629
         Bookmarks: /bookmarks/
+        Status: https://status.kinghua0629.com/
     #     Blog: https://ohevan.com
     #     Friends: /friends
     
@@ -280,9 +282,9 @@ home:
       Categories: 
         path: /categories 
         icon: fa-regular fa-folder # can be empty
-      Links:
-        icon: fa-regular fa-book-bookmark
-        path: /bookmarks/
+      CV:
+        icon: fa-regular fa-graduation-cap
+        path: https://kinghua0629.com/myCV/cv-1.pdf
       Photos:
         icon: fa-regular fa-image
         path: /masonry/

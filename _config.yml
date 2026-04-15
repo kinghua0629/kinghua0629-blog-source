@@ -108,6 +108,7 @@ deploy:
   type: 'git'
   repo: 'git@github.com:kinghua0629/kinghua0629.github.io.git'
   branch: 'dev'
+  ignore_hidden: false
 
 all_minifier: true
 
@@ -119,3 +120,18 @@ mathjax:
   append_css: true # add CSS to every page
   every_page: true # if true, every page will be rendered by mathjax regardless the `mathjax` setting in Front-matter of each article
 
+hexo_seo_autopush:
+  cron: 0 4 * * *
+  deployBranch: main
+  bing:
+    enable: true
+    date: created
+    count: 10
+  google:
+    enable: true
+    date: created
+    count: 10
+  baidu: 
+    enable: true
+    date: created
+    count: 10
