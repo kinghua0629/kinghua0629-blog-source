@@ -284,7 +284,7 @@ home:
         icon: fa-regular fa-folder # can be empty
       CV:
         icon: fa-regular fa-graduation-cap
-        path: https://kinghua0629.com/myCV/cv-1.pdf
+        path: http://kinghua0629.github.io/myCV/cv-1.pdf
       Photos:
         icon: fa-regular fa-image
         path: /masonry/
